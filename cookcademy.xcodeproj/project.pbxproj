@@ -11,6 +11,7 @@
 		F65E88F22A4C385E00F34293 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F65E88F12A4C385E00F34293 /* ContentView.swift */; };
 		F65E88F42A4C386000F34293 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F65E88F32A4C386000F34293 /* Assets.xcassets */; };
 		F65E88F72A4C386000F34293 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F65E88F62A4C386000F34293 /* Preview Assets.xcassets */; };
+		F65E88FE2A4C391B00F34293 /* Recipe.swift in Sources */ = {isa = PBXBuildFile; fileRef = F65E88FD2A4C391B00F34293 /* Recipe.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		F65E88F12A4C385E00F34293 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F65E88F32A4C386000F34293 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F65E88F62A4C386000F34293 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F65E88FD2A4C391B00F34293 /* Recipe.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Recipe.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				F65E88EF2A4C385E00F34293 /* cookcademyApp.swift */,
+				F65E88FD2A4C391B00F34293 /* Recipe.swift */,
 				F65E88F12A4C385E00F34293 /* ContentView.swift */,
 				F65E88F32A4C386000F34293 /* Assets.xcassets */,
 				F65E88F52A4C386000F34293 /* Preview Content */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F65E88FE2A4C391B00F34293 /* Recipe.swift in Sources */,
 				F65E88F22A4C385E00F34293 /* ContentView.swift in Sources */,
 				F65E88F02A4C385E00F34293 /* cookcademyApp.swift in Sources */,
 			);
